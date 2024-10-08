@@ -14,3 +14,13 @@ header{
     margin: 20px 10px;
 }
 
+.cartao__conteudo:hover{
+    transform: scale(1.009);
+}
+
+.cartao__conteudo_resposta{
+    display: none;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(155, 85, 221);
+}

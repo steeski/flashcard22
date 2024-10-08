@@ -10,7 +10,7 @@ header{
     border: 1px solid blue;
     border-radius: 2px;
     box-shawdow: 0 4px 6px white;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     margin: 20px 10px;
 }
 

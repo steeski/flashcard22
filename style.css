@@ -22,7 +22,7 @@ header{
     transform: scale(1.009);
 }
 
-.cartao__conteudo_resposta{
+.cartao__conteudo__resposta{
     display: none;
     text-align: center;
     padding: 20px;

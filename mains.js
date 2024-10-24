@@ -1,5 +1,5 @@
 function mostraResposta (card){
-    const resposta = card.querySelector('.cartao_conteudo_respota');
+    const resposta = card.querySelector('.cartao_conteudo__respota');
     if (resposta.style.display === 'none'){
         resposta.style.display = 'block';
     }
